@@ -66,12 +66,14 @@ It demonstrates:
 ## 📸 Screenshots
 
 ### 🔹 Pull Request  
-![PR Screenshot](screenshots/PR_Page_1.png)
+<img width="1801" height="955" alt="PR_Page_1" src="https://github.com/user-attachments/assets/6fc601f7-e737-4ded-9199-538bc922edde" />
 
 ### 🔹 Notebook Running  
-![Notebook Screenshot](screenshots/notebook_running.png)
 
-(A separate test screenshot is optional; result described below.)
+
+<img width="1853" height="763" alt="notebook_running_1" src="https://github.com/user-attachments/assets/9d448f2b-1757-4d72-a438-9450fcb560f9" />
+<img width="1867" height="748" alt="notebook_running_2" src="https://github.com/user-attachments/assets/27efc477-b78e-4ef7-ab04-6ccb9c8949b4" />
+<img width="1852" height="707" alt="notebook_running_3" src="https://github.com/user-attachments/assets/e65b24b7-e1dd-43e7-ae15-cf08f9ad8a02" />
 
 ---
 
