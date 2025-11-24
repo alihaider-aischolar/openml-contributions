@@ -66,7 +66,7 @@ It demonstrates:
 ## 📸 Screenshots
 
 ### 🔹 Pull Request  
-![PR Screenshot](screenshots/pr_page.png)
+![PR Screenshot](screenshots/PR_Page_1.png)
 
 ### 🔹 Notebook Running  
 ![Notebook Screenshot](screenshots/notebook_running.png)
